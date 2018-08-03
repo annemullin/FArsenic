@@ -154,3 +154,5 @@ sum(complete.cases(F$SES_3cat2T))
 sum(complete.cases(F$t212T))
 sum(complete.cases(F$sexo_h00))
 sum(complete.cases(F$smoke_inside2T))
+
+setwd("C:/Users/Anne Mullin/Documents/Penn/Arsenic/R Studio/paper/FArsenic/anne2")
